@@ -1,3 +1,3 @@
-# Dotnet Quasar
+# .NET Quasar
 
-New Dotnet template (ASP.NET) Core 8, with Quasar 2 and Typescript support
+New ASP.NET Starter template (WebAPI) Core 8.0, with Quasar 2 (Vue) and Typescript support
