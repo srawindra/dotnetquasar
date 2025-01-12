@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: dotnetquasar",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/dotnetquasar.csproj",
+      "launchConfigurationId": "TargetFramework=;dotnetquasar"
+    }
+  ]
+}
